@@ -10,3 +10,5 @@ DAY 2: (refer : CSS DAY 2.html & DAY 2.css)
 Linking CSS file to HTML (link tag),
 Colour Property: Foreground, Background.
 Colour System: RGB, HEX.
+
+DAY 3:
