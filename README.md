@@ -12,3 +12,8 @@ Colour Property: Foreground, Background.
 Colour System: RGB, HEX.
 
 DAY 3:
+
+
+
+
+
